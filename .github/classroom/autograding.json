@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Sprint-14 Test",
+      "setup": "npm install",
+      "run": "npm test -- --watchAll=false --coverage",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
