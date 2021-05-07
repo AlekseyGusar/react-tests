@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot tests first item renders correctly 1`] = `
+<li>
+  "login: AlekseyGusar"
+</li>
+`;
+
+exports[`snapshot tests header renders correctly 1`] = `
+<h3>
+  GitHub User Info
+</h3>
+`;
